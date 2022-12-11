@@ -1,2 +1,2 @@
 # coursera_IBM-DS-course
-IBM Analyst Capston Project Repository
+IBM Analyst Capstone Project Repository
